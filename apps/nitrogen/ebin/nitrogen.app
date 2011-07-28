@@ -106,8 +106,6 @@
         http_basic_auth_security_handler,
         identity_handler,
         log_handler,
-        mochiglobal,
-        mochijson2,
         named_route_handler,
         nitrogen,
         nitrogen_dev,
